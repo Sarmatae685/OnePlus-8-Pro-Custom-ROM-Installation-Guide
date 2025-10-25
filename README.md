@@ -210,8 +210,12 @@ Then in recovery press "Reboot system now"
 </div>  
 
 And enjoy your new ROM!  
+      
+<div align="center">
+  <img src="images/Evolution%20X%20Start%20Screen.png" alt="Evolution X Start Screen.png" width="30%"/>
+  <img src="images/New%20OTA.png" alt="New OTA.png" width="30%"/>
+</div>  
 
-<img src="images/Evolution%20X%20Start%20Screen.png" alt="Evolution X Start Screen.png" width="30%"/>      
 
 > [!WARNING]  
 > Don't lock the bootloader while using Evolution X, it can **permanently brick your device** and recover it would be hard because the bootloader is locked.  
