@@ -174,8 +174,8 @@ fastboot reboot recovery
 Factory Reset → Format Data/Factory Reset → confirm to format the device.
 
 <div align="center">
-  <img src="images/Recovery%20-%20Factory%20reset.jpg" alt="Recovery - Factory reset.jpg" width="65%"/>
-  <img src="images/Recovery%20-%20Format%20Data%20and%20Factory%20Reset.jpg" alt="Recovery - Format Data and Factory Reset.jpg" width="65%"/>
+  <img src="images/Recovery%20-%20Factory%20reset.jpg" alt="Recovery - Factory reset.jpg" width="30%"/>
+  <img src="images/Recovery%20-%20Format%20Data%20and%20Factory%20Reset.jpg" alt="Recovery - Format Data and Factory Reset.jpg" width="30%"/>
 </div>
 
 ### 4. After data wiped out, choose:
