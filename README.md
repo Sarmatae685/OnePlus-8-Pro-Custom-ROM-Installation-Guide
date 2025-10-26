@@ -184,6 +184,12 @@ Apply update → Apply from ADB → back to cmd and **flash the ROM itself**:
 > [!NOTE]
 > Specify `.zip` extension as well
 
+<div align="center">
+  <img src="images/Recovery%20-%20Apply%20update.jpg" alt="Recovery - Apply update.jpg" width="30%"/>
+  <img src="images/Recovery%20-%20Apply%20from%20ADB.jpg" alt="Recovery - Apply from ADB.jpg" width="30%"/>
+  <img src="images/Recovery%20-%20Waiting%20for%20adb%20sideload.jpg" alt="Recovery - Waiting for adb sideload.jpg" width="30%"/>
+</div>
+
 ```adb
 adb sideload EvolutionX-16.0-20251006-instantnoodlep-11.2.1-Official.zip
 ```
