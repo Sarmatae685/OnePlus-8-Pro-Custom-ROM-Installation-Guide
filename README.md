@@ -204,6 +204,9 @@ After installation is complete, you will be asked in recovery, whether you'd lik
 
 Then in recovery press "Reboot system now"  
 
+> [!NOTE]
+> Sorry for garbage quality, at that step I hadn't any other phone nearby, so I took a photo on a Laptop WebCam 😂
+
 <div align="center">
   <img src="images/Additional%20packages%20asking.jpg" alt="Additional packages asking.jpg" width="65%"/>
   <img src="images/Install%20completed%20Reboot%20to%20system.jpg" alt="Install completed Reboot to system.jpg" width="65%"/>
