@@ -206,17 +206,16 @@ Then chill for a couple minutes!
 > 
 > It's OKAY. ADB connection was lost when recovery automatically rebooted. The firmware was fully installed by this point.
 
-After installation is complete, you will be asked in recovery, whether you'd like to install additional packages (they mean root and other). Choose "No".  
-
-Then in recovery press "Reboot system now"  
+After installation is complete, you will be asked in recovery, whether you'd like to install additional packages (they mean GApps, root, another recovery etc.). Choose `No`. 
 
 > [!NOTE]
-> Sorry for garbage quality, at that step I hadn't any other phone nearby, so I took a photo on a Laptop WebCam 😂
+> Evolution X has pre-built GApps, so no need to install it separately.
 
-<div align="center">
-  <img src="images/Additional%20packages%20asking.jpg" alt="Additional packages asking.jpg" width="65%"/>
-  <img src="images/Install%20completed%20Reboot%20to%20system.jpg" alt="Install completed Reboot to system.jpg" width="65%"/>
-</div>  
+<img src="images/Recovery%20-%20Ask%20for%20Additional%20packages.jpg" alt="Recovery - Ask for Additional packages.jpg" width="30%"/>
+
+
+Then in recovery press `Reboot system now`  
+
 
 And enjoy your new ROM!  
       
