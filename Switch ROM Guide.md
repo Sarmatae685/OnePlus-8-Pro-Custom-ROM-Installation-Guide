@@ -114,7 +114,7 @@ This will reboot you to new LineageOS recovery.
 > **Therefore, although these images are ROM specific (except `vbmeta.img`), there is no need to manually flash them via fastboot!** Everything happens automatically when sideloading the ZIP file.
 
 
-### Step 5: Sideload GApps (optional)
+## Step 5: Sideload GApps (optional)
 
 In recovery:
 
@@ -138,7 +138,7 @@ Wait 2-3 minutes → `Installation complete!`
 
 
 
-### Step 6: Sideload Magisk (optional)
+## Step 6: Sideload Magisk (optional)
 
 As in previous steps:
 `Apply update` → `Apply from ADB` → recovery is waiting for sideloading `.zip` from PC
@@ -158,7 +158,7 @@ Wait < 1 minute → `Magisk v29.0` installed!
 > [!NOTE]
 > Magisk may ask for [additional setting](link-to-magisk-guide.md) after first launch.
 
-### Step 7: Reboot to system
+## Step 7: Reboot to system
 
 In recovery press `Reboot system now`
 
